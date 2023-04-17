@@ -1,8 +1,8 @@
+# This project comes from https://github.com/lllyasviel
+
+## This is just a backup of an old version of Controlnet for ease of use
+
 ## sd-webui-controlnet
-
-#This project comes from https://github.com/lllyasviel
-
-##This is just a backup of an old version of Controlnet for ease of use
 
 (WIP) WebUI extension for ControlNet and T2I-Adapter
 

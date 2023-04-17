@@ -1,4 +1,4 @@
-# This project come from https://github.com/lllyasviel
+# This project come from https://github.com/Mikubill/sd-webui-controlnet
 
 ## This is just a backup of an old version of Controlnet-1.0 for ease of use
 
